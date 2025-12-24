@@ -44,4 +44,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EElumba&layout=compact&theme=default)
 
 
+![Top Langs](https://github-readme-stats-git-master-enoch-elumbas-projects.vercel.app/api/top-langs/?username=EElumba&layout=compact&theme=default)
+
+![Top Langs](https://github-readme-stats-gsq0yfpx0-enoch-elumbas-projects.vercel.app/api/top-langs/?username=EElumba&layout=compact&theme=default)
+
 
