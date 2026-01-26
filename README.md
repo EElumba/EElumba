@@ -42,6 +42,7 @@
 
 ## 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EElumba&layout=compact&theme=default)
-![Top Langs](https://github-readme-stats-iaxan08e2-enoch-elumbas-projects.vercel.app/api/top-langs/?username=EElumba&layout=compact&theme=default)
+
+<!--![Top Langs](https://github-readme-stats-iaxan08e2-enoch-elumbas-projects.vercel.app/api/top-langs/?username=EElumba&layout=compact&theme=default)-->
 
 
