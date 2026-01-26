@@ -1,7 +1,7 @@
 # 👋Hi, I'm Enoch! 
 
 <div>
-  <h3>CS Student | Software Consultant | AI/ML Enthusiast</h3>
+  <h3>Software Developer | AI/ML Enthusiast</h3>
   <p>Based in the United States 📍</p>
 </div>
 
